@@ -2,7 +2,8 @@
 
 
 
-- 🔭 I’m currently search for work in area of data analysys
-- 📖 I’m currently learning IA tecnologies, i passionate for this theme. I truly believe that AI can help humanity in many ways, especially in healthcare. 
-- 📫 How to reach me: kauemistico1@gmail.com
+- 🔭 I’m currently seeking opportunities as a Front-End Developer.
+- 📖 I’m focused on improving my skills in HTML, CSS, JavaScript and React, building real projects and evolving as a developer every day.
+- 🎯 My goal is to create responsive, performant and accessible interfaces that deliver great user experiences.
+- 📫 Contact: kauemistico1@gmail.com
 - 😄 Pronouns: he/him
